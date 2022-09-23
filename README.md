@@ -9,13 +9,13 @@
 
 <h3 align="center">LANGUAGES IM LEARNING>:)</h3>
 
-<p align="center">
+:page_with_curl: <h3>LANGUAGES IM LEARNING</h3>:
+<br><br>
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</p>
 
 <h3 align="center">COME VISIT ME!</h3>
 
