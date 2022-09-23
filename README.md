@@ -4,7 +4,17 @@
 
 <h1 align="center">I'm looking for an internship :)</h1>
 
-<p align="center">Currently in my second year studying Software Engineering at RMIT. I enjoy front-end web development, especially looking at other people's UX/UI designs.
+<p align="center">Currently in my second year studying Software Engineering at RMIT. I enjoy front-end web development, and hope I can get into an industry with a focus of UX/UI design.
+</p>
+
+<h3 align="center">LANGUAGES >:)</h3>
+
+<p align="center">
+  - Python
+  - HTML
+  - Flutter
+  - LEARNING NODE.JS
+  - LEARNING REACT
 </p>
 
 <h3 align="center">COME VISIT ME!</h3>
