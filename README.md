@@ -9,7 +9,7 @@
 
 <h3 align="center">LANGUAGES IM LEARNING>:)</h3>
 
-<h3>LANGUAGES IM LEARNING</h3>:
+<h3>LANGUAGES IM LEARNING</h3>
 
 <br align = "center"><br>
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
