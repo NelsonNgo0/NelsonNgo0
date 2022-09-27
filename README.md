@@ -19,5 +19,5 @@
 
 <h3 align="center">COME VISIT ME!</h3>
 
-<p align="center"><a href="bewbees.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height=25></a> <a href="https://www.youtube.com/shorts/rvS64TaRh6I"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://www.instagram.com/_ngobody_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p align="center"><a href="https://bewbees.dev/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height=25></a> <a href="https://www.youtube.com/shorts/rvS64TaRh6I"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://www.instagram.com/_ngobody_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
