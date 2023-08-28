@@ -1,5 +1,5 @@
 <p align="center">
-<img width="800" height="400" src="https://raw.githubusercontent.com/NelsonNgo0/NelsonNgo0/main/profile_banner.png">
+<img width="800" height="400" src="https://raw.githubusercontent.com/NelsonNgo0/NelsonNgo0/main/bLACK.gif">
 </p>
 
 <h1 align="center">I'm looking for an internship :)</h1>
