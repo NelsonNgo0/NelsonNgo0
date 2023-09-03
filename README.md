@@ -2,12 +2,12 @@
 <img width="800" height="400" src="https://raw.githubusercontent.com/NelsonNgo0/NelsonNgo0/main/bLACK.gif">
 </p>
 
-<h1 align="center">I'm looking for an internship :)</h1>
+<h1 align="center">I make cool Apps</h1>
 
-<p align="center">Currently in my second year studying Software Engineering at RMIT. I enjoy front-end web development, and hope I can get into an industry with a focus of UX/UI design. Zero Two Supremecy.
+<p align="center"> My dream is to build funky apps for a living. If good app ideas gave me money - I'd be a googilianaire.
 </p>
 
-<h3 align="center">LANGUAGES IM LEARNING>:)</h3>
+<h3 align="center">LANGUAGES IM CONQUERING</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
